@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="burclar">
+        <item>Akrep</item>
+        <item>Aslan</item>
+        <item>Balık</item>
+        <item>Başak</item>
+        <item>Boğa</item>
+        <item>İkizler</item>
+        <item>Koç</item>
+        <item>Kova</item>
+        <item>Oğlak</item>
+        <item>Terazi</item>
+        <item>Yay</item>
+        <item>Yengeç</item>
+    </string-array>
+    
+    <string-array name="burcTarih">
+        <item>23 Ekim - 21 Kasım</item>
+        <item>23 Temmuz - 22 Ağustos</item>
+        <item>20 Şubat - 20 Mart</item>
+        <item>23 Ağustos - 22 Eylül</item>
+        <item>21 Nisan - 21 Mayıs</item>
+        <item>22 Mayıs - 22 Haziran</item>
+        <item>21 Mart - 20 Nisan</item>
+        <item>22 Ocak - 19 Şubat</item>
+        <item>22 Aralık - 21 Ocak</item>
+        <item>23 Eylül - 22 Kasım</item>
+        <item>22 Kasım - 21 Aralık</item>
+        <item>23 Haziran - 22 Temmuz</item>
+    </string-array>
+
+    <string-array name="burcGrup">
+        <item>Su Grubu</item>
+        <item>Ateş Grubu</item>
+        <item>Su Grubu</item>
+        <item>Toprak Grubu</item>
+        <item>Toprak Grubu</item>
+        <item>Hava Grubu</item>
+        <item>Ateş Grubu</item>
+        <item>Hava Grubu</item>
+        <item>Toprak Grubu</item>
+        <item>Hava Grubu</item>
+        <item>Ateş Grubu</item>
+        <item>Su Grubu</item>
+    </string-array>
+
+    <string-array name="burcOzellikleri">
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Pluto-Mars\n\n
+                \tElement : Su\n\n
+                \tNitelik : Sabit\n\n
+                \tUğurlu Sayıları : 2, 4\n\n
+                \tGün : Çarşamba\n\n
+                \tUğurlu Taşı : Topaz\n\n
+                \tRenk : Koyu kırmızı, şarap, patlıcan moru\n\n
+                \tTarot Kartı : Ölüm\n\n
+                \tHayvan : Akrep ve diğer yeraltı yaratıkları\n\n
+                \tBitki : Karaçalı, Akasya ağaçları, Krizantem, Açelya\n\n
+                \tKıymetli Taş : Turkuaz, Yılantaşı\n\n
+                \tKıymetli Maden : Plutonyum\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Güneş\n\n
+                \tElement : Ateş\n\n
+                \tNitelik : Sabit\n\n
+                \tUğurlu Sayıları : 1, 4\n\n
+                \tGün : Pazar\n\n
+                \tUğurlu Taşı : Elmas\n\n
+                \tRenk : Sarı,Turuncu\n\n
+                \tTarot Kartı : Kader Çarkı\n\n
+                \tHayvan : Aslan, kedi\n\n
+                \tBitki : Ayçiçeği, Gül, Krizantem, Orkide\n\n
+                \tKıymetli Taş : Kedi gözü, pırlanta, sarı safir\n\n
+                \tKıymetli Maden : Altın\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Neptün\n\n
+                \tElement : Su\n\n
+                \tNitelik : Değişken\n\n
+                \tUğurlu Sayıları : 2, 6\n\n
+                \tGün : Cuma\n\n
+                \tUğurlu Taşı : Akuamarin\n\n
+                \tRenk : Turkuaz, Nil Yeşili\n\n
+                \tTarot Kartı : Ay\n\n
+                \tHayvan : Balıklar\n\n
+                \tBitki : İncir, Söğüt Ağaçları, Nilüfer, Fulya\n\n
+                \tKıymetli Taş : İnci\n\n
+                \tKıymetli Maden : Platin\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Merkür\n\n
+                \tElement : Toprak\n\n
+                \tNitelik : Değişken\n\n
+                \tUğurlu Sayıları : 6\n\n
+                \tGün : Çarşamba\n\n
+                \tUğurlu Taşı : Meryem Taşı\n\n
+                \tRenk : Sarı, Yeşil\n\n
+                \tTarot Kartı : Ermiş\n\n
+                \tHayvan : Yalnız yaşayabilen hayvanlar, Tüm evciller\n\n
+                \tBitki : Nergis\n\n
+                \tKıymetli Taş : Koyu Zafir, Zebercet\n\n
+                \tKıymetli Maden : Civa\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Venüs\n\n
+                \tElement : Toprak\n\n
+                \tNitelik : Sabit\n\n
+                \tUğurlu Sayıları : 6, 4\n\n
+                \tGün : Cuma\n\n
+                \tUğurlu Taşı : Zümrüt\n\n
+                \tRenk : Pastel Mavi, Lila\n\n
+                \tTarot Kartı : İmparatoriçe\n\n
+                \tHayvan : Boğa\n\n
+                \tBitki : Elma, Selvi, Menekşe, Gelincik\n\n
+                \tKıymetli Taş : Topaz\n\n
+                \tKıymetli Maden : Bakır\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Merkür\n\n
+                \tElement : Hava\n\n
+                \tNitelik : Değişken\n\n
+                \tUğurlu Sayıları : 5, 9\n\n
+                \tGün : Çarşamba\n\n
+                \tUğurlu Taşı : Akik\n\n
+                \tRenk : Sarı, Turuncu\n\n
+                \tTarot Kartı : Aşıklar\n\n
+                \tHayvan : Parlak Renkli Kuşlar ve Kelebekler\n\n
+                \tBitki : Fındık ve Ceviz ağaçları, Lavanta, İnci Çiçeği\n\n
+                \tKıymetli Taş : Turmalin\n\n
+                \tKıymetli Maden : Civa\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Mars\n\n
+                \tElement : Ateş\n\n
+                \tNitelik : Öncü\n\n
+                \tUğurlu Sayıları : 1, 9\n\n
+                \tGün : Salı\n\n
+                \tUğurlu Taşı : Yakut\n\n
+                \tRenk : Kırmızı\n\n
+                \tTarot Kartı : İmparator\n\n
+                \tHayvan : Koyun\n\n
+                \tBitki : Geranyum, Itır, Hanımeli, Pars Zambağı\n\n
+                \tKıymetli Taş : Elmas\n\n
+                \tKıymetli Maden : Demir\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Uranüs\n\n
+                \tElement : Su\n\n
+                \tNitelik : Değişken\n\n
+                \tUğurlu Sayıları : 2, 6\n\n
+                \tGün : Pazar\n\n
+                \tUğurlu Taşı : Turkuaz\n\n
+                \tRenk : Koyu mavi\n\n
+                \tTarot Kartı : Yıldız\n\n
+                \tHayvan : Büyük kuşlar\n\n
+                \tBitki : Meyve ağaçları ve orkide\n\n
+                \tKıymetli Taş : Cam, kalkedon\n\n
+                \tKıymetli Maden : Uranyum\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Satürn\n\n
+                \tElement : Toprak\n\n
+                \tNitelik : Öncü\n\n
+                \tUğurlu Sayıları : 2, 8\n\n
+                \tGün : Cumartesi\n\n
+                \tUğurlu Taşı : Grena\n\n
+                \tRenk : Koyu Yeşil, Kahverengi\n\n
+                \tTarot Kartı : Şeytan\n\n
+                \tHayvan : Keçi ve Diğer boynuzlular\n\n
+                \tBitki : Karanfil, Sarmaşık, Çam, Kavak ve Karağaç\n\n
+                \tKıymetli Taş : Kara Elmas, Kehribar, Kıymetli\n\n
+                \tKıymetli Maden : Kurşun\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Venüs\n\n
+                \tElement : Hava\n\n
+                \tNitelik : Öncü\n\n
+                \tUğurlu Sayıları : 6, 9\n\n
+                \tGün : Çarşamba\n\n
+                \tUğurlu Taşı : Opal, Zümrüt\n\n
+                \tRenk : Mavi, Lila\n\n
+                \tTarot Kartı : Aşıklar\n\n
+                \tHayvan : Yılan, Kertenkele\n\n
+                \tBitki : Badem, Selvi ve Dişbudak Ağaçları, Gül\n\n
+                \tKıymetli Taş : Koyu Zafir, Zebercet\n\n
+                \tKıymetli Maden : Bakır\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Jupiter\n\n
+                \tElement : Ateş\n\n
+                \tNitelik : Değişken\n\n
+                \tUğurlu Sayıları : 5, 7\n\n
+                \tGün : Perşembe\n\n
+                \tUğurlu Taşı : Turkuaz\n\n
+                \tRenk : Turkuaz, Mor\n\n
+                \tTarot Kartı : Denge\n\n
+                \tHayvan : At\n\n
+                \tBitki : Nergis, Karahindiba, Dut, Meşe ve Huş Ağaçları\n\n
+                \tKıymetli Taş : Lal\n\n
+                \tKıymetli Maden : Teneke\n\n
+        </item>
+
+        <item>\n\n\tGenel Özellikler\n\n\n
+                \tYönetici Gezegeni : Ay\n\n
+                \tElement : Su\n\n
+                \tNitelik : Öncü\n\n
+                \tUğurlu Sayıları : 3, 7\n\n
+                \tGün : Pazartesi\n\n
+                \tUğurlu Taşı : İnci\n\n
+                \tRenk : Sarı, Beyaz, Deniz Mavisi, Gümüş\n\n
+                \tTarot Kartı : Ay\n\n
+                \tHayvan : Deniz Kabukluları\n\n
+                \tBitki : Hezaran Çiçeği, Nilüfer, Kenger Otu, Lotus\n\n
+                \tKıymetli Taş : Aytaşı, Amber\n\n
+                \tKıymetli Maden : Gümüş\n\n
+        </item>
+    </string-array>
+
+    <string-array name="bubble">
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+</resources>
